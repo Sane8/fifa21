@@ -13,15 +13,16 @@ OUTPUTS_DIR = BASE_DIR / "outputs"
 
 
 def main() -> None:
+    #Pandas
     cleaner = PandasPlayerCleaner(DATA_PATH)
     cleaned = cleaner.save_cleaned(OUTPUTS_DIR / "fifa21_cleaned.csv")
     cleaner.save_report(cleaned, OUTPUTS_DIR / "report.json")
-
+    #Ленивый pipeline
     source = PlayerDataSource(DATA_PATH)
     cleaned_rows = PlayerRowCleaner(source, strict=False)
     strong_young_players = PlayerRatingFilter(cleaned_rows, min_overall=85, max_age=25)
     exported_count = CsvExporter().export(strong_young_players, OUTPUTS_DIR / "young_top_players_lazy.csv")
-
+    #Пути к файлам
     print(f"Saved cleaned dataset: {OUTPUTS_DIR / 'fifa21_cleaned.csv'}")
     print(f"Saved report: {OUTPUTS_DIR / 'report.json'}")
     print(f"Saved lazy pipeline result: {exported_count} rows")
