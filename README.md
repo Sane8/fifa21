@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FIFA 21 Messy Dataset Cleaner
 
 Учебный проект по очистке грязного CSV с игроками FIFA 21.
@@ -95,3 +96,6 @@ pytest
 ```
 
 В тестах используются `fixture`, `parametrize`, `pytest.raises` и пользовательская mark `integration`.
+=======
+# fifa21
+>>>>>>> 6f94e947cc6fbdd72e7027ea45ea2ab7469d1a74
