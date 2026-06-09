@@ -1,0 +1,20 @@
+id,name,long_name,nationality,club,positions,preferred_foot,best_position,primary_position,age,overall,potential,height_cm,weight_kg,value_eur,wage_eur,release_clause_eur,weak_foot,skill_moves,international_reputation,hits,contract,contract_start_year,contract_end_year,contract_type,growth,value_per_overall
+231747,K. Mbappé,Kylian Mbappé,France,Paris Saint-Germain,"ST, LW, RW",Right,ST,ST,21,90,95,178,73,185500000,160000,203100000,4,5,3,1600,2018 ~ 2022,2018,2022,active,5,2061111.11
+202652,R. Sterling,Raheem Sterling,England,Manchester City,"LW, RW",Right,LW,LW,25,88,90,170,69,114500000,270000,139600000,3,4,3,205,2015 ~ 2023,2015,2023,active,2,1301136.36
+212622,J. Kimmich,Joshua Kimmich,Germany,FC Bayern München,"CDM, RB",Right,CDM,CDM,25,88,90,176,73,103000000,145000,112100000,4,3,3,339,2015 ~ 2023,2015,2023,active,2,1170454.55
+233049,J. Sancho,Jadon Sancho,England,Borussia Dortmund,"RM, LM, CAM",Right,CAM,RM,20,87,93,180,76,124000000,82000,132100000,3,5,3,1100,2017 ~ 2023,2017,2023,active,6,1425287.36
+231281,T. Alexander-Arnold,Trent Alexander-Arnold,England,Liverpool,RB,Right,RB,RB,21,87,92,180,69,114000000,110000,115500000,4,3,2,433,2015 ~ 2024,2015,2024,active,5,1310344.83
+218667,Bernardo Silva,Bernardo Mota Carvalho e Silva,Portugal,Manchester City,"RW, CAM, CM",Left,RW,RW,25,87,88,173,64,95000000,230000,115500000,3,4,2,242,2017 ~ 2025,2017,2025,active,1,1091954.02
+212198,Bruno Fernandes,Bruno Miguel Borges Fernandes,Portugal,Manchester United,"CAM, CM",Right,CAM,CAM,25,87,90,179,69,105500000,195000,124400000,4,4,2,1500,2020 ~ 2025,2020,2025,active,3,1212643.68
+231866,Rodri,Rodrigo Hernández Cascante,Spain,Manchester City,"CDM, CM",Right,CDM,CDM,24,85,88,191,82,66500000,145000,84700000,4,3,2,161,2019 ~ 2024,2019,2024,active,3,782352.94
+223848,S. Milinković-Savić,Sergej Milinković-Savić,Serbia,Lazio,"CM, CDM, CAM",Right,CM,CM,25,85,89,191,76,74500000,95000,87000000,4,4,2,403,2015 ~ 2024,2015,2024,active,4,876470.59
+235790,K. Havertz,Kai Havertz,Germany,Chelsea,"CAM, RM, CF",Left,CAM,CAM,21,85,93,188,83,121000000,105000,119700000,4,4,3,593,2020 ~ 2025,2020,2025,active,8,1423529.41
+235243,M. de Ligt,Matthijs de Ligt,Netherlands,Juventus,CB,Right,CB,CB,20,85,92,189,89,99000000,81000,91600000,4,2,3,374,2019 ~ 2024,2019,2024,active,7,1164705.88
+232363,M. Škriniar,Milan Škriniar,Slovakia,Inter,CB,Right,CB,CB,25,85,89,188,80,67000000,130000,79000000,4,2,1,245,2017 ~ 2023,2017,2023,active,4,788235.29
+231677,M. Rashford,Marcus Rashford,England,Manchester United,"LM, ST",Right,RM,LM,22,85,91,186,70,86500000,150000,111300000,4,5,2,3200,2014 ~ 2023,2014,2023,active,6,1017647.06
+230621,G. Donnarumma,Gianluigi Donnarumma,Italy,Milan,GK,Right,GK,GK,21,85,92,196,90,93500000,34000,78900000,3,1,3,266,2015 ~ 2021,2015,2021,active,7,1100000.0
+206113,S. Gnabry,Serge Gnabry,Germany,FC Bayern München,"RM, LM, RW",Right,RM,RM,24,85,87,175,75,70000000,100000,81900000,4,4,3,299,2017 ~ 2023,2017,2023,active,2,823529.41
+222492,L. Sané,Leroy Sané,Germany,FC Bayern München,LM,Left,LM,LM,24,85,90,184,75,81500000,100000,88800000,3,4,2,309,2020 ~ 2025,2020,2025,active,5,958823.53
+220440,C. Lenglet,Clément Lenglet,France,FC Barcelona,CB,Left,CB,CB,25,85,89,186,81,67000000,190000,94600000,4,2,2,265,2018 ~ 2023,2018,2023,active,4,788235.29
+212188,T. Werner,Timo Werner,Germany,Chelsea,"ST, LW",Right,ST,ST,24,85,88,180,76,74500000,135000,97800000,4,3,3,337,2020 ~ 2025,2020,2025,active,3,876470.59
+228702,F. de Jong,Frenkie de Jong,Netherlands,FC Barcelona,CM,Right,CM,CM,23,85,90,180,74,81000000,190000,107300000,3,4,3,688,2019 ~ 2024,2019,2024,active,5,952941.18

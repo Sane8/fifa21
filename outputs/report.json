@@ -1,0 +1,30 @@
+{
+  "players_count": 18978,
+  "average_overall": 65.72,
+  "average_age": 25.19,
+  "most_expensive_player": "K. Mbappé",
+  "top_nationalities": {
+    "England": 1705,
+    "Germany": 1195,
+    "Spain": 1065,
+    "France": 1003,
+    "Argentina": 943,
+    "Brazil": 887,
+    "Japan": 484,
+    "Netherlands": 438,
+    "Italy": 387,
+    "Sweden": 380
+  },
+  "top_positions": {
+    "CB": 3278,
+    "ST": 2627,
+    "CM": 2228,
+    "GK": 2075,
+    "CDM": 1526,
+    "LB": 1399,
+    "RB": 1365,
+    "CAM": 1155,
+    "RM": 1067,
+    "LM": 1053
+  }
+}
